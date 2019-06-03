@@ -1,1 +1,1 @@
-# SIS3316
+# SIS3316Digitizers
